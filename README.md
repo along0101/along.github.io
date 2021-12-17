@@ -1,2 +1,2 @@
-# AluBlog
-阿炉的博客
+# Along's Blog
+阿隆的博客
